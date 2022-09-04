@@ -1,0 +1,17 @@
+----------------
+TODO:
+(new Hire,,) 
+Instruction for New Hires : VZ Tier-2
+TAC007 –  Call Flow Analysis
+TAC005 – 5G Commissioning and Integration
+SDD005 - 5G NR mmWave RAN
+TAC006 – Advanced Troubleshooting Topics
+\\netapp\depts\Internal Training\OPS Training
+OPS001- General Health Checks
+\\netapp\depts\Internal Training\Verizon\SNAP Deep Dive
+5 NR NSA Network Architecture (refer to PPT attached)
+\\netapp\depts\Internal Training\SME Knowledgeshare
+SME012 – VDU and DSS Overview
+SME007 – DSS Feature Activation and FFA Learnings
+
+----------------
